@@ -11,3 +11,8 @@ login
 
 # STUDENT_PATHS — add at least three extra common paths below this line (one per line).
 # Do not delete the starter paths above. Example names (you choose your own): dashboard  api  .env
+logs
+debug
+uploads
+maindir
+lang
